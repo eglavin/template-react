@@ -1,0 +1,7 @@
+* text=auto eol=lf
+
+# dependencies
+*.lock text -diff
+
+# testing
+*.test.*.snap text -diff
