@@ -3,6 +3,9 @@
 
 # dev files
 /build
+/dist
 
 # testing
+/coverage
+/jest
 *.test.*.snap
